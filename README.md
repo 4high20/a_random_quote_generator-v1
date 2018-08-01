@@ -1,1 +1,3 @@
-# a_random_quote_generator-v1
+# Techdegree project 1
+# A random quote generator
+# applying for exceeds expectations
